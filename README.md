@@ -26,10 +26,10 @@ This application is supposed to do the following:<br>
 
 <b>Set up instructions/requirements:</b><br>
 
-    • Desktop/laptop computer<br>
-    • Internet<br>
-    • Web browser<br>
-    • 
+   • Desktop/laptop computer<br>
+   • Internet<br>
+   • Web browser<br>
+    
 <b>Access:</b><br>
 Click:https://github.com/Eccie-K/T-TRACKER to access the page.<br>
 
