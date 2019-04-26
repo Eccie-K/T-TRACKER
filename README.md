@@ -3,8 +3,10 @@
 Triangle Tracker is a web page that allows the user to enter the lengths of the sides of a triangle. After entering the lengths in number, it returns whether the triangle is equilateral,isosceles,scalene or not a triangle at all. 
 Look at it as a ‘game’ that comes in handy to individuals who are learning about triangles or those who want to understand more about triangles.
 
-<b>Author:</b><br>
+<b>Author:</b>
+<br>
 Esther Kirui
+<br>
 <br>
 <b>Languages used:</b><br>
     • HTML<br>
