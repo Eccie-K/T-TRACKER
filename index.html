@@ -21,17 +21,17 @@
     </div>
 
     <form>
-    Enter value1<br>
+    <b>Enter value1</b><br>
     <input type="number" name="firstname" value="" id="no1">
     <br>
-    Enter value2<br>
+    <b>Enter value2</b><br>
     <input type="number" name="firstname" value="" id="no2">
     <br>
-    Enter value3:<br>
+    <b>Enter value3:</b><br>
     <input type="number" name="lastname" value="" id="no3">
     <br>
     <br>
-    <button onclick="myFunction()">Submit</button>
+    <button onclick="myFunction()"><b>Submit</b></button>
 
 
     </form>
@@ -42,13 +42,13 @@
         var no2 = parseInt(document.getElementById("no2").value);
         var no3 = parseInt(document.getElementById("no3").value);
         if (no1 === no2 && no2 === no3 && no1 === no3) {
-          document.getElementById('shape').innerHTML = ("EQUILATERAL TRIANGLE");
+          document.getElementById('shape').innerHTML = ("EQUILATERAL TRIANGLE:EQUILATERAL TRIANGLE:ALL SIDES ARE EQUAL");
         } else if (no2 == no1 || no2 == no3 || no3 == no1) {
-          document.getElementById('shape').innerHTML = ("THIS IS AN ISOSCELES TRIANGLE");
+          document.getElementById('shape').innerHTML = ("ISOSCELES TRIANGLE:TWO SIDES ARE EQUAL");
         } else if (no1 + no2 < no3 || no3 + no2 < no1 || no1 + no3 < no2) {
-          document.getElementById('shape').innerHTML = ("NOT A TRIANGLE");
+          document.getElementById('shape').innerHTML = ("THIS IS NOT A TRIANGLE");
         } else if (no1 + no2 > no3 || no1 + no3 > no2 || no2 + no3 > no1) {
-          document.getElementById('shape').innerHTML = ("SCALENE TRIANGLE");
+          document.getElementById('shape').innerHTML = ("SCALENE TRIANGLE:NO SIDES ARE EQUAL");
         }
       }
     </script>
