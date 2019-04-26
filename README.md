@@ -4,9 +4,7 @@ Triangle Tracker is a web page that allows the user to enter the lengths of the 
 Look at it as a ‘game’ that comes in handy to individuals who are learning about triangles or those who want to understand more about triangles.
 
 <b>Author:</b><br>
-<br>
 Esther Kirui
-<br>
 <br>
 <b>Languages used:</b><br>
     • HTML<br>
