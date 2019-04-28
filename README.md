@@ -15,8 +15,7 @@ Esther Kirui<br>
 
 
 <b>BDD (Behaviour Driven Development)</b><br>
-
-<b>Functionality:</b><br>
+Functionality:<br>
 This application is supposed to do the following:<br>
     • Have three clearly displayed places with instructions for  users to enter values. <br>
     • A submit button should be there,right below the spaces for entering values.<br>
