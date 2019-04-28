@@ -1,4 +1,4 @@
-Triangle Tracker
+<b>Triangle Tracker</b>
 
 Triangle Tracker is a web page that allows the user to enter the lengths of the sides of a triangle. After entering the lengths in number, it returns whether the triangle is equilateral,isosceles,scalene or not a triangle at all. 
 Look at it as a ‘game’ that comes in handy to individuals who are learning about triangles or those who want to understand more about triangles.
@@ -9,14 +9,14 @@ Esther Kirui<br>
 
 <b>Languages used:</b><br>
 
-    • HTML
-    • JavaScript
-    • CSS<br>
+   • HTML
+   • JavaScript
+   • CSS<br>
 
 
 <b>BDD (Behaviour Driven Development)</b><br>
 
-Functionality:<br>
+<b>Functionality:</b><br>
 This application is supposed to do the following:<br>
     • Have three clearly displayed places with instructions for  users to enter values. <br>
     • A submit button should be there,right below the spaces for entering values.<br>
@@ -27,10 +27,10 @@ This application is supposed to do the following:<br>
 
 <b>Set up instructions/requirements:</b>
 
-    • Desktop/laptop computer<br>
-    • Internet<br>
-    • Web browser<br>
-    • 
+   • Desktop/laptop computer<br>
+   • Internet<br>
+   • Web browser<br>
+
 <b>Access:</b><br>
 Click:https://github.com/Eccie-K/T-TRACKER to access the page.
 
