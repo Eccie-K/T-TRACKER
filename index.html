@@ -45,10 +45,10 @@
           document.getElementById('shape').innerHTML = ("EQUILATERAL TRIANGLE:EQUILATERAL TRIANGLE:ALL SIDES ARE EQUAL");
         } else if (no2 == no1 || no2 == no3 || no3 == no1) {
           document.getElementById('shape').innerHTML = ("ISOSCELES TRIANGLE:TWO SIDES ARE EQUAL");
-        } else if (no1 + no2 < no3 || no3 + no2 < no1 || no1 + no3 < no2) {
-          document.getElementById('shape').innerHTML = ("THIS IS NOT A TRIANGLE");
         } else if (no1 + no2 > no3 || no1 + no3 > no2 || no2 + no3 > no1) {
           document.getElementById('shape').innerHTML = ("SCALENE TRIANGLE:NO SIDES ARE EQUAL");
+        }else if (no1 + no2 <= no3 || no1 + no3 <= no2 || no2 + no3 <= no1) {
+          document.getElementById('shape').innerHTML = ("THIS IS NOT A TRIANGLE");
         }
       }
     </script>
