@@ -1,25 +1,20 @@
-<<<<<<< HEAD
-Triangle Tracker
-=======
-<b>Triangle Tracker</b>
->>>>>>> fa30df0017e54c69ba3b959dbbb7afb56bf6b9fb
 
+### Triangle Tracker
 Triangle Tracker is a web page that allows the user to enter the lengths of the sides of a triangle. After entering the lengths in number, it returns whether the triangle is equilateral,isosceles,scalene or not a triangle at all. 
 Look at it as a ‘game’ that comes in handy to individuals who are learning about triangles or those who want to understand more about triangles.
 
-<<<<<<< HEAD
-Author:
+### Author:
 
 Esther Kirui
 
-Languages used:
+ ### Languages used:
 
-    • HTML
-    • JavaScript
-    • CSS
+    + HTML
+    + JavaScript
+    + CSS
 
 
-BDD (Behaviour Driven Development)
+### BDD (Behaviour Driven Development)
 
 Functionality:
 This application is supposed to do the following:
@@ -36,8 +31,8 @@ Set up instructions/requirements:
     • Internet
     • Web browser
     • 
-Access:
-Click:https://github.com/Eccie-K/T-TRACKER to access the page.
+### LINK TO MY PAGE
++ https://eccie-k.github.io/T-TRACKER/
 
 
 Contributions:
@@ -51,65 +46,4 @@ Esther Kirui
 Mobile:+254775946131
 Email:estherkc100@gmail.com
 
-
-License and Copyright Information.
-
-This project is licensed under the terms of the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.
-=======
-<b>Author:</b><br>
-
-Esther Kirui<br>
-
-<b>Languages used:</b><br>
-
-   • HTML
-   • JavaScript
-   • CSS<br>
-
-
-<b>BDD (Behaviour Driven Development)</b><br>
-Functionality:<br>
-This application is supposed to do the following:<br>
-    • Have three clearly displayed places with instructions for  users to enter values. <br>
-    • A submit button should be there,right below the spaces for entering values.<br>
-    • For an equilateral triangle,all sides are equal. Therefore, users should enter the same value in each of the three spaces provided. This should display the word “EQUILATERAL TRIANGLE:ALL SIDES ARE EQUAL.”<br>
-    • For an isosceles triangle,exactly two sides are equal. The users should enter the same value in two of the spaces provided. This should display “isosceles triangle: “ISOSCELES TRIANGLE:TWO SIDES ARE EQUAL.”<br>
-    • For a scalene triangle,none of the sides are equal. Users should enter different values in the spaces provided. This should display the word “SCALENE TRIANGLE: NO SIDES ARE EQUAL.”<br>
-    • If the sum of the lengths of any two sides of the triangle is less than or equal to the length of the third side, “THIS IS NOT A TRIANGLE” should be displayed.
-
-<b>Set up instructions/requirements:</b>
-
-   • Desktop/laptop computer<br>
-   • Internet<br>
-   • Web browser<br>
-
-<b>Access:</b><br>
-Click:https://github.com/Eccie-K/T-TRACKER to access the page.
-
-
-<b>Contributions:</b><br>
-
-Contributions are welcome. It is recommended that you open an issue and discuss the changes you would like to make.<br>
-
-
-<b>Contact Information:</b><br>
-
-Esther Kirui<br>
-Mobile:+254775946131<br>
-Email:estherkc100@gmail.com<br>
-
-
-<b>License and Copyright Information.</b><br>
-
-This project is licensed under the terms of the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.<br>
->>>>>>> fa30df0017e54c69ba3b959dbbb7afb56bf6b9fb
-
-Copyright ©2019 Esther Kirui.
-
-
-
-
-<<<<<<< HEAD
-=======
-
->>>>>>> fa30df0017e54c69ba3b959dbbb7afb56bf6b9fb
+### LICENSE
