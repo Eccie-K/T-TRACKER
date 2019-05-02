@@ -40,11 +40,11 @@ Contributions:
 Contributions are welcome. It is recommended that you open an issue and discuss the changes you would like to make.
 
 
-Contact Information:
+### Contact Information:
 
-Esther Kirui
-Mobile:+254775946131
-Email:estherkc100@gmail.com
++ Esther Kirui
++ Mobile:+254775946131
++ Email:estherkc100@gmail.com
 
 ### LICENSE
 + https://github.com/Eccie-K/T-TRACKER/new/master
