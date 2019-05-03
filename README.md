@@ -4,18 +4,18 @@
 Triangle Tracker is a web page that allows the user to enter the lengths of the sides of a triangle. After entering the lengths in number, it returns whether the triangle is equilateral,isosceles,scalene or not a triangle at all. 
 Look at it as a ‘game’ that comes in handy to individuals who are learning about triangles or those who want to understand more about triangles.
 
-**Author:
+**Author:**
 
 Esther Kirui
 
-**Languages used:
+**Languages used:**
 
     +HTML
     +JavaScript
     +CSS
 
 
-**BDD (Behaviour Driven Development)
+**BDD (Behaviour Driven Development)**
 
 +Functionality:
 +This application is supposed to do the following:
@@ -26,7 +26,7 @@ Esther Kirui
   +  • For a scalene triangle,none of the sides are equal. Users should enter different values in the spaces provided. This should display the word “SCALENE TRIANGLE: NO SIDES ARE EQUAL.”
    + • If the sum of the lengths of any two sides of the triangle is less than or equal to the length of the third side, “THIS IS NOT A TRIANGLE” should be displayed.
 
-**Set up instructions/requirements:
+**Set up instructions/requirements:**
 
     +Desktop/laptop computer
     + Internet
@@ -41,14 +41,14 @@ Click:https://github.com/Eccie-K/T-TRACKER to access the page.
 Contributions are welcome. It is recommended that you open an issue and discuss the changes you would like to make.
 
 
-**Contact Information:
+**Contact Information:**
 
-+Esther Kirui
-+Mobile:+254775946131
-+Email:estherkc100@gmail.com
++ Esther Kirui
++ Mobile:+254775946131
++ Email:estherkc100@gmail.com
 
 
-**License and Copyright Information.
+**License and Copyright Information.**
 
 This project is licensed under the terms of the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.
 
