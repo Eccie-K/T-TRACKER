@@ -10,9 +10,9 @@ Esther Kirui
 
 **Languages used:**
 
-    +  HTML
-    + JavaScript
-    + CSS
+    HTML<br>
+    JavaScript<br>
+    CSS<br>
 
 
 **BDD (Behaviour Driven Development)**
@@ -28,9 +28,9 @@ Esther Kirui
 
 **Set up instructions/requirements:**
 
-    + Desktop/laptop computer
-    + Internet
-    + Web browser
+     Desktop/laptop computer<br>
+     Internet<br>
+     Web browser<br>
      
 **Access:**
 Click:https://github.com/Eccie-K/T-TRACKER to access the page.
