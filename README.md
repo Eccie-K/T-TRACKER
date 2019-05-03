@@ -10,15 +10,15 @@ Esther Kirui
 
 **Languages used:**
 
-    +HTML
-    +JavaScript
-    +CSS
+    + HTML
+    + JavaScript
+    + CSS
 
 
 **BDD (Behaviour Driven Development)**
 
-+Functionality:
-+This application is supposed to do the following:
++ Functionality:
++ This application is supposed to do the following:
    + • Have three clearly displayed places with instructions for  users to enter values. 
    + • A submit button should be there,right below the spaces for entering values.
    + • For an equilateral triangle,all sides are equal. Therefore, users should enter the same value in each of the three spaces provided. This should display the word “EQUILATERAL TRIANGLE:ALL SIDES ARE EQUAL.”
@@ -32,11 +32,11 @@ Esther Kirui
     + Internet
     + Web browser
      
-**Access:
+**Access:**
 Click:https://github.com/Eccie-K/T-TRACKER to access the page.
 
 
-**Contributions:
+**Contributions:**
 
 Contributions are welcome. It is recommended that you open an issue and discuss the changes you would like to make.
 
