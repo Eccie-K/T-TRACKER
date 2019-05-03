@@ -10,7 +10,7 @@ Esther Kirui
 
 **Languages used:**
 
-    + HTML
+    +  HTML
     + JavaScript
     + CSS
 
@@ -28,7 +28,7 @@ Esther Kirui
 
 **Set up instructions/requirements:**
 
-    +Desktop/laptop computer
+    + Desktop/laptop computer
     + Internet
     + Web browser
      
