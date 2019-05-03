@@ -50,6 +50,6 @@ Contributions are welcome. It is recommended that you open an issue and discuss 
 
 **License and Copyright Information.**
 
-This project is licensed under the terms of the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.
+https://github.com/Eccie-K/T-TRACKER/new/master
 
 
